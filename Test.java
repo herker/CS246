@@ -15,13 +15,8 @@ public class Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-<<<<<<< HEAD
         System.out.println("Hello GitHub");
 //        System.out.println("Testing...");
-=======
-        System.out.println("Hello GitHub World");
-        System.out.println("Testing...");
->>>>>>> test
     }
     
 }
