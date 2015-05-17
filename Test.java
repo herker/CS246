@@ -15,7 +15,7 @@ public class Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello GitHub World");
+        System.out.println("Hello GitHubWorld");
         System.out.println("Testing...");
     }
     
